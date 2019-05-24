@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.remove-item {
+  background: red;
+  color: white;
+  position: absolute;
+  right: 0;
+  margin-right: 10px;
+}
+ol {
+  text-align: left;
+  padding: 10px;
+  margin: auto;
+  width: 300px;
+  background: blue;
+  margin-top: 20px;
+}
+li {
+  position: relative;
+  margin: 5px;
+  margin-left: 20px;
+  background: black;
+  padding: 10px;
+  color: white;
+}
